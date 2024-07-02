@@ -26,10 +26,25 @@ rider/driver behavior as well as areas for improvement
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/dimitrios-georgiou/) or dgeorgiou3@gmail.com
 * 🤝  I'm open to collaborating on interesting projects and ideas around the Machine Learning and AI world.
 
-[![alt text](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png)](https://x.com/jimmyg1997)
-[![alt text](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png)](https://www.linkedin.com/in/dimitrios-georgiou/)
+
+
+
+<a href="https://scholar.google.com/citations?user=whiGlXQAAAAJ&hl=en">
+  <img src="https://camo.githubusercontent.com/a9bd8ae47f772d70c1534bd954ec6503de13829e9c884d19f493f0c38d15cb3f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c655f7363686f6c61722e737667" alt="alt text" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dimitrios-georgiou/">
+  <img src="https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="alt text" width="40"/>
+</a>
+
+<a href="https://x.com/jimmyg1997">
+  <img src="https://camo.githubusercontent.com/631afab3a04fca0d3dc2c545a3db90692281f20e9eb6c1957cb83fa0c27dbb5d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f747769747465722e706e67" alt="alt text" width="40"/>
+</a>
+
+
+
 <a href="https://github.com/jimmyg1997">
-  <img src="https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="alt text" width="50"/>
+  <img src="https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="alt text" width="40"/>
 </a>
 
 
