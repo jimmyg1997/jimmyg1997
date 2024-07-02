@@ -30,6 +30,6 @@ rider/driver behavior as well as areas for improvement
 
 [![https://x.com/jimmyg1997][[1.1](http://i.imgur.com/tXSoThF.png)]][1]
 
-![alt text][http://i.imgur.com/0o48UoR.png]
+![alt text](http://i.imgur.com/0o48UoR.png)
 
   
