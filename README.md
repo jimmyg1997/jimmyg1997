@@ -3,7 +3,9 @@
 
 💻 Coding since 2015, fascinated by the endless possibilities of the vast amount of biological data I decided to specialize my ML/DL skills in bioinformatics
 
-☞ M.Eng in Computer Science (average grade: 9.11), my year-long thesis project revolved around Machine & Deep Learning Classification and Visual Explanation of Dyslexia and Spelling Deficiency using fMRI Data, where I experimented with GLM 1st Level Analysis, Atlas Analysis, Graph-CNN modeling, and GrandCAM
+☞ My education journey :
+* M.Eng in Computer Science (average grade: 9.11/10), my year-long thesis project revolved around Machine & Deep Learning Classification and Visual Explanation of Dyslexia and Spelling Deficiency using fMRI Data, where I experimented with GLM 1st Level Analysis, Atlas Analysis, Graph-CNN modeling, and GrandCAM
+* Minor Degree in Finance (average grade : 3.82/4), with emphasis on Foundations of Investments, Portfolio Management, Machine Learning. Check our latest paper [A generalization of multi-source fusion-based framework to stock selection](https://www.sciencedirect.com/science/article/pii/S1566253523003342 )
 
 
 🔬 My research journey :
