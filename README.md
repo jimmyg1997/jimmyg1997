@@ -28,6 +28,9 @@ rider/driver behavior as well as areas for improvement
 
 [![alt text](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png)](https://x.com/jimmyg1997)
 [![alt text](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png)](https://www.linkedin.com/in/dimitrios-georgiou/)
+[![alt text](https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667)](https://github.com/jimmyg1997)
+
+
 
 
 
