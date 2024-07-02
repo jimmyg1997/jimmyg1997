@@ -26,13 +26,4 @@ rider/driver behavior as well as areas for improvement
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/dimitrios-georgiou/) or dgeorgiou3@gmail.com
 * 🤝  I'm open to collaborating on interesting projects and ideas around the Machine Learning and AI world.
 
-![https://x.com/jimmyg1997](http://i.imgur.com/tXSoThF.png)
-
-[![https://x.com/jimmyg1997][[1.1](http://i.imgur.com/tXSoThF.png)]][1]
-
-![alt text](http://i.imgur.com/0o48UoR.png)
-
-
-![alt text][http://i.imgur.com/0o48UoR.png][https://x.com/jimmyg1997]
-
-  
+[![alt text](http://i.imgur.com/0o48UoR.png)](https://x.com/jimmyg1997)
