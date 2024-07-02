@@ -25,7 +25,5 @@ rider/driver behavior as well as areas for improvement
 * 🌍  I'm based in Krakow, Poland 🇵🇱
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/dimitrios-georgiou/) or dgeorgiou3@gmail.com
 * 🤝  I'm open to collaborating on interesting projects and ideas around the Machine Learning and AI world.
-
-
-## Socials:
+  
   
