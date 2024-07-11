@@ -14,6 +14,7 @@
 * Under the supervision of [Ioannis Micaholopoulos](https://github.com/imichalop), we also researched the severity of COVID-19 and we built a Machine Learning-Based Web Tool. Check our latest paper titled 𝘈 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨-𝘉𝘢𝘴𝘦𝘥 𝘞𝘦𝘣 𝘛𝘰𝘰𝘭 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘚𝘦𝘷𝘦𝘳𝘪𝘵𝘺 𝘗𝘳𝘦𝘥𝘪𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 𝘊𝘖𝘝𝘐𝘋-19 [[link](https://www.mdpi.com/2673-6284/13/3/22)].
 
 💼 **My industry journey**
+* Data Scientist @𝐇𝐒𝐁𝐂: As a Data Scientist in Compliance Analytics, I lead analytical projects spanning investigations, intelligence delivery, and transaction monitoring. I utilize statistical techniques for insight generation, conduct data analysis for senior management, identify process improvements, and ensure compliance with organizational standards and regulatory guidelines.
 * Automation Specialist (Advanced Data Analytics) @𝐔𝐛𝐞𝐫: Data Extraction, Data Analysis, Data Visualisations, Machine Learning, Automation. Implemented and maintained 25+ automation/data science projects (real-time, non real-time)
 * Local Operations Intern (Data Analytics) @𝐔𝐛𝐞𝐫: Using Advanced SQL, Python to analyze data, gather business insights and understand
 rider/driver behavior as well as areas for improvement
