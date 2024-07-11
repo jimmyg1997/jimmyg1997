@@ -14,9 +14,10 @@
 * Under the supervision of [Ioannis Micaholopoulos](https://github.com/imichalop), we also researched the severity of COVID-19 and we built a Machine Learning-Based Web Tool. Check our latest paper titled 𝘈 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨-𝘉𝘢𝘴𝘦𝘥 𝘞𝘦𝘣 𝘛𝘰𝘰𝘭 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘚𝘦𝘷𝘦𝘳𝘪𝘵𝘺 𝘗𝘳𝘦𝘥𝘪𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 𝘊𝘖𝘝𝘐𝘋-19 [[link](https://www.mdpi.com/2673-6284/13/3/22)].
 
 💼 **My industry journey**
+* Automation Specialist (Advanced Data Analytics) @𝐔𝐛𝐞𝐫: Data Extraction, Data Analysis, Data Visualisations, Machine Learning, Automation. Implemented and maintained 25+ automation/data science projects (real-time, non real-time)
 * Local Operations Intern (Data Analytics) @𝐔𝐛𝐞𝐫: Using Advanced SQL, Python to analyze data, gather business insights and understand
 rider/driver behavior as well as areas for improvement
-* Automation Specialist (Advanced Data Analytics) @𝐔𝐛𝐞𝐫: Data Extraction, Data Analysis, Data Visualisations, Machine Learning, Automation. Implemented and maintaining 25+ automation/data science projects (real-time, non real-time)
+
 
 👨‍🏫 I seek to combine machine learning knowledge in various fields (transportation, finance, healthcare) with my research interest in biological data through a collaborative effort with other passion-driven scientists and researchers. My research interests lie in the fields of genomics, biomedical ML/DL, and time series analysis, while I constantly seek a thorough knowledge of new advancements.
 
