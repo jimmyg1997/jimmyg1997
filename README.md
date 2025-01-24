@@ -29,19 +29,14 @@ rider/driver behavior as well as areas for improvement
 * 🤝  I'm open to collaborating on interesting projects and ideas around the Machine Learning and AI world.
 
 
-
 <a href="https://scholar.google.com/citations?user=whiGlXQAAAAJ&hl=en">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Google_Scholar_logo_2020.svg" alt="google scholar" width="40"/>
+  <img src="https://img.icons8.com/ios/452/google-scholar.png" alt="google scholar" width="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dimitrios-georgiou/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/LinkedIn_Logo_2023.png" alt="linkedin" width="40"/>
+  <img src="https://img.icons8.com/ios/452/linkedin.png" alt="linkedin" width="40"/>
 </a>
 
 <a href="https://x.com/jimmyg1997">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.png" alt="twitter" width="40"/>
+  <img src="https://img.icons8.com/ios/452/twitter.png" alt="twitter" width="40"/>
 </a>
-
-
-
-
