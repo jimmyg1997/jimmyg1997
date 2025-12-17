@@ -4,8 +4,8 @@
 💻 Coding since 2015, fascinated by the endless possibilities of the vast amount of biological data I decided to specialize my ML/DL skills in bioinformatics
 
 🎓 **My education journey**
-* M.Eng in Computer Science (average grade: 9.11/10) at the 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐀𝐭𝐡𝐞𝐧𝐬 (𝐍𝐓𝐔𝐀) , my year-long thesis project revolved around Machine & Deep Learning Classification and Visual Explanation of Dyslexia and Spelling Deficiency using fMRI Data, where I experimented with GLM 1st Level Analysis, Atlas Analysis, Graph-CNN modeling, and GrandCAM
-* Minor Degree in Finance (average grade : 3.82/4), with emphasis on Foundations of Investments, Portfolio Management, and Machine Learning. Check our latest paper titled '𝘈 𝘨𝘦𝘯𝘦𝘳𝘢𝘭𝘪𝘻𝘢𝘵𝘪𝘰𝘯 𝘰𝘧 𝘮𝘶𝘭𝘵𝘪-𝘴𝘰𝘶𝘳𝘤𝘦 𝘧𝘶𝘴𝘪𝘰𝘯-𝘣𝘢𝘴𝘦𝘥 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬 𝘵𝘰 𝘴𝘵𝘰𝘤𝘬 𝘴𝘦𝘭𝘦𝘤𝘵𝘪𝘰𝘯' [[link](https://www.sciencedirect.com/science/article/pii/S1566253523003342)].
+* M.Eng in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 (average grade: 9.11/10) at the 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐀𝐭𝐡𝐞𝐧𝐬 (𝐍𝐓𝐔𝐀) , my year-long thesis project revolved around Machine & Deep Learning Classification and Visual Explanation of Dyslexia and Spelling Deficiency using fMRI Data, where I experimented with GLM 1st Level Analysis, Atlas Analysis, Graph-CNN modeling, and GrandCAM
+* Minor Degree in 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 (average grade : 3.82/4) at 𝐃𝐞𝐫𝐞𝐞 𝐂𝐨𝐥𝐥𝐞𝐠𝐞, with emphasis on Foundations of Investments, Portfolio Management, and Machine Learning. Check our latest paper titled '𝘈 𝘨𝘦𝘯𝘦𝘳𝘢𝘭𝘪𝘻𝘢𝘵𝘪𝘰𝘯 𝘰𝘧 𝘮𝘶𝘭𝘵𝘪-𝘴𝘰𝘶𝘳𝘤𝘦 𝘧𝘶𝘴𝘪𝘰𝘯-𝘣𝘢𝘴𝘦𝘥 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬 𝘵𝘰 𝘴𝘵𝘰𝘤𝘬 𝘴𝘦𝘭𝘦𝘤𝘵𝘪𝘰𝘯' [[link](https://www.sciencedirect.com/science/article/pii/S1566253523003342)].
 
 
 🔬 **My research journey**
